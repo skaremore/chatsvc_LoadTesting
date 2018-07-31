@@ -5,7 +5,7 @@ execution:
 
 scenarios:
   with_script:
-    script: C:\Shubhangi\apache-jmeter-4.0\bin\MTChatLoadTest\MTChatLoadTest.jmx
+    script: MTChatLoadTest.jmx
     
 reporting:
 - module: final-stats
