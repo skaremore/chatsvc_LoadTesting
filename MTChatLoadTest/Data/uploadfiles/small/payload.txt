@@ -1,0 +1,7 @@
+{"name":"Sample Group ","groupType":"PUBLIC","visibility":false,"description":"Sample Group","uploadIdentifier":"","members":[{"memberId":"1F7C766B-8581-4F50-AE80-9CBF5B85C728","role":"ADMIN"},{"memberId":"EF441265-4D5F-4051-BAAB-B88ADCC02A25","role":"MEMBER"}]}
+
+
+
+
+
+{"recipient":"{{GroupMember1}}","message":"hello {{GroupAdminname}}","documentIds":[],"base64Audio":"","taggedUserGuids":["{{GroupAdmin}}"]} 

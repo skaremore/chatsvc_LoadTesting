@@ -1,0 +1,5 @@
+{"name":"Group-${__Random(1,10000)} ${TenantId} Jabbertypes","groupType":"PUBLIC","visibility":true,"description":"Sample Group","uploadIdentifier":"","members":[{"memberId":"${UserGuid}","role":"ADMIN"}],"iFSDistributionGroup":"false"}
+
+
+
+

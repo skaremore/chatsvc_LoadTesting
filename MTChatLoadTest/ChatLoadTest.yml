@@ -1,0 +1,12 @@
+execution:
+- iterations: 1
+  concurrency: 2
+  scenario: with_script
+
+scenarios:
+  with_script:
+    script: C:\Shubhangi\apache-jmeter-4.0\bin\MTChatLoadTest\MTChatLoadTest.jmx
+    
+reporting:
+- module: final-stats
+  dump-xml: stats.xml

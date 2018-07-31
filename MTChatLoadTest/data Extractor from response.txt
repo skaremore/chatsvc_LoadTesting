@@ -1,0 +1,16 @@
+<a  onclick="javascript:return chk('http://(.+?)','CloudIdentity', 'Cloud Identities','/idp/efcHx/resume/idp/prp.ping','CI_TST','https://mingle-ci01-sso.mingle.awsdev.infor.com:443/sp/startSSO.ping?PartnerIdpId=http://mingle-ci01-cloudidentities.mingle.awsdev.infor.com&amp;TargetResource=https%3a%2f%2fmingle-ci01-sso.mingle.awsdev.infor.com%3a443%2fidp%2fefcHx%2fresume%2fidp%2fprp.ping'); return false;"  class="authenticaion-box">
+    <div title="Cloud Identities">
+        <img class="provider-icon" src="/SelectionImage?entityId=http%3A%2F%2Fmingle-ci01-cloudidentities.mingle.awsdev.infor.com&amp;identityProviderType=CloudIdentity" />
+        <span class="text-ellipses">Cloud Identities</span>
+      
+    </div>
+</a>
+
+
+<a  onclick="javascript:return chk('http://mingle-ci01-cloudidentities.mingle.awsdev.infor.com','CloudIdentity', 'Cloud Identities','/idp/efcHx/resume/idp/prp.ping','CI_TST','https://mingle-ci01-sso.mingle.awsdev.infor.com:443/sp/startSSO.ping?PartnerIdpId=http://mingle-ci01-cloudidentities.mingle.awsdev.infor.com&amp;TargetResource=https%3a%2f%2fmingle-ci01-sso.mingle.awsdev.infor.com%3a443%2fidp%2fefcHx%2fresume%2fidp%2fprp.ping'); return false;"  class="authenticaion-box">
+    <div title="Cloud Identities">
+        <img class="provider-icon" src="/SelectionImage?entityId=http%3A%2F%2Fmingle-ci01-cloudidentities.mingle.awsdev.infor.com&amp;identityProviderType=CloudIdentity" />
+        <span class="text-ellipses">Cloud Identities</span>
+      
+    </div>
+</a>
